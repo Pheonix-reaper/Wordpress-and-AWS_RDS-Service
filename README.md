@@ -14,6 +14,6 @@ Deploy the WordPress application on Kubernetes and AWS using terraform including
 4. The Wordpress application should be accessible from the public world if deployed on AWS or through workstation if deployed on Minikube.
 
 
-# Linked In article I have made explaining the task in details:
+# Linked In article I have made explaining the task in detail:
 
 https://www.linkedin.com/posts/asish-patnaik-3917a7193_righteducation-rightmentor-aws-activity-6707836069255217152-CXiQ
